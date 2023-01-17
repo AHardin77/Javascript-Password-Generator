@@ -8,7 +8,7 @@ Authors
 
 Deployment
 🚀 Deployed application
-Link- 
+Link- https://ahardin77.github.io/Javascript-Password-Generator/
 
 💡Resources Sites used for referance and inperation.
 [HTML and CSS: Design and Build Websites 1st Edition](Author-Jon Duckett)
